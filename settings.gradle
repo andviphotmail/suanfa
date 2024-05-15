@@ -1,0 +1,2 @@
+rootProject.name = "suanfa"
+include ':sunfa_test'
